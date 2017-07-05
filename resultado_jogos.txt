@@ -1,0 +1,6 @@
+Corithians:Palmeiras
+São Paulo:Corinthians
+Palmeiras:São Paulo
+Palmeiras:Guarani
+Guarani:Corinthians
+São Paulo:Guarani
